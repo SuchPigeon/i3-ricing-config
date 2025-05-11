@@ -1,0 +1,9 @@
+# Default generated config (temp solution)
+include default.cfg
+
+# Windows
+include windows.cfg
+include compositor.cfg
+
+# Key binds
+include keybinds.cfg
